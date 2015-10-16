@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "Nerdbank.FullDuplexStream": "1.0.1",
+    "PCLCommandBase": "0.2.2",
+    "PCLTesting": "0.2.2",
+    "Xamarin.Forms": "1.1.0.6201"
+  },
+  "frameworks": {
+    ".NETFramework,Version=v4.5": { }
+  },
+  "supports": { }
+}
