@@ -1,9 +1,6 @@
 ﻿{
   "dependencies": {
-    "Nerdbank.FullDuplexStream": "1.0.1",
-    "PCLCommandBase": "0.2.2",
-    "PCLTesting": "0.2.2",
-    "Xamarin.Forms": "1.1.0.6201"
+    "PCLTesting": "0.2.2" // this line is critical to the repro
   },
   "frameworks": {
     ".NETFramework,Version=v4.5": { }
