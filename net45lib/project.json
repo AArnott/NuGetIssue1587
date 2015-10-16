@@ -1,6 +1,6 @@
 ﻿{
   "dependencies": {
-    "PCLTesting": "0.2.2" // this line is critical to the repro
+    "Microsoft.Bcl.Async": "1.0.168"
   },
   "frameworks": {
     ".NETFramework,Version=v4.5": { }
